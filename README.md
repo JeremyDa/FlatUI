@@ -1,3 +1,6 @@
+This is a copy of Android FlatUI.
+
+
 Android FlatUI
 ===================
 
